@@ -21,31 +21,12 @@ export default function App() {
 
   return (
     <div className="App" style={{ verticalAlign: "top" }}>
-      {/* <Token roleId="knight" />
-      <ReminderTokens roleId="knight" /> */}
-      {/* <Token roleId="baron" />
-      <Token roleId="fanggu" />
-      <Token roleId="vigormortis" />
-      <Token roleId="bountyhunter" />
-      <Token roleId="balloonist" />
-      <Token roleId="huntsman" />
-      <Token roleId="choirboy" />
-      <Token roleId="atheist" />
-      <Token roleId="lilmonsta" /> */}
-
-      {/* {_allRoles
-        .filter((r) => r.ability.includes("["))
-        .map((r) => (
-          <>
-            <ReminderTokens key={r.id} roleId={r.id} />
-          </>
-        ))} */}
-            
       {_allRoleIds.map((rid) => (
         <>
           <Token key={rid} roleId={rid} />
         </>
       ))}
+      <div></div>
       {_allRoleIds.map((rid) => (
         <>
           <ReminderTokens key={rid + "RT"} roleId={rid} />
