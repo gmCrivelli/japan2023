@@ -43,9 +43,9 @@
         "otherNight": 0,
         "otherNightReminder": "",
         "reminders": [
-            "Visto",
-            "Visto",
-            "Visto"
+            "Sabe",
+            "Sabe",
+            "Sabe"
         ],
         "setup": false,
         "team": "townsfolk"
@@ -646,7 +646,7 @@
         "team": "townsfolk"
     },
     {
-        "ability": "Uma vez por jogo, à noite, escolha um personagem: ele fica bêbado por 3 noites e 3 dias.",
+        "ability": "Uma vez por jogo, à noite, escolha um personagem: o alvo fica bêbado por 3 noites e 3 dias.",
         "firstNight": 19,
         "firstNightReminder": "O Cortesão pode sinalizar 'não' com a cabeça, ou apontar para um personagem na ficha. Se o Cortesão usou a habilidade, e o personagem estiver em jogo, o alvo fica bêbado.",
         "edition": "",
@@ -1895,7 +1895,7 @@
         "otherNight": 73,
         "otherNightReminder": "Coloque o lembrete com o número do dia que irá amanhecer. Se ainda não anunciou que o Leviatã está em jogo, faça isso ao amanhcer, anunciando também o número correspondente ao dia.",
         "reminders": [
-            "Bom Executado",
+            "Bem Executado",
             "Dia 1",
             "Dia 2",
             "Dia 3",
@@ -2132,7 +2132,7 @@
         "team": "traveller"
     },
     {
-        "ability": "Uma vez por jogo, à noite, esolha um jogador morto: ele recupera sua habilidade até o anoitecer.",
+        "ability": "Uma vez por jogo, à noite, esolha um jogador morto: o alvo recupera sua habilidade até o anoitecer.",
         "firstNight": 0,
         "firstNightReminder": "",
         "edition": "",
@@ -2413,7 +2413,7 @@
         "team": "demon"
     },
     {
-        "ability": "Você recebe 3 blefes. Na 3ª noite, escolha um jogador: ele se torna um Demônio mau à sua escolha. [Sem Demônio]",
+        "ability": "Você recebe 3 blefes. Na 3ª noite, escolha um jogador: o alvo se torna um Demônio mau à sua escolha. [Sem Demônio]",
         "firstNight": 8,
         "firstNightReminder": "Mostre o token 'Estes personagens não estão em jogo'. Mostre 3 personagens bons que não estão em jogo.",
         "edition": "",
