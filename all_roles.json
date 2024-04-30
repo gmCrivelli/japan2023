@@ -1062,13 +1062,13 @@
         "team": "outsider"
     },
     {
-        "ability": "1 jogador está Bêbado, mesmo que você morra. Você pode adivinhar quem é (uma chance). Se acertar, você vê quem é o Demônio, você vê o jogador errado.",
+        "ability": "1 jogador está Bêbado, mesmo que você morra. Você pode adivinhar quem é (uma chance). Se acertar, você vê quem é o Demônio, caso contrário recebe informação falsa.",
         "firstNight": 0,
         "firstNightReminder": "",
         "edition": "",
         "id": "pt_BR_puzzlemaster",
         "image": "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/puzzlemaster.png",
-        "name": "Puzzlemaster",
+        "name": "Logicista",
         "otherNight": 0,
         "otherNightReminder": "",
         "reminders": [
@@ -1241,7 +1241,7 @@
         "team": "outsider"
     },
     {
-        "ability": "Quando sua morte for declarasa, escolha publicamente 1 jogador vivo. À noite, se o alvo era bom, morre.",
+        "ability": "Quando sua morte for declarada, escolha publicamente 1 jogador vivo. À noite, se o alvo era bom, morre.",
         "firstNight": 0,
         "firstNightReminder": "",
         "edition": "",
@@ -2024,7 +2024,7 @@
         "team": "traveller"
     },
     {
-        "ability": "Uma vez por jogo, se outro jogador nomear, você pode forçar essa execução ou impedí-la",
+        "ability": "Uma vez por jogo, se outro jogador nomear, você pode forçar a execução atual ou impedí-la.",
         "firstNight": 0,
         "firstNightReminder": "",
         "edition": "",
@@ -2062,7 +2062,7 @@
         "firstNightReminder": "",
         "edition": "",
         "id": "pt_BR_voudon",
-        "image": "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/voudon.png",
+        "image": "https://wiki.bloodontheclocktower.com/images/6/6d/Icon_voudon.png",
         "name": "Voudon",
         "otherNight": 0,
         "otherNightReminder": "",
@@ -2071,7 +2071,7 @@
         "team": "traveller"
     },
     {
-        "ability": "A cada noite, até o anoitecer, 1) um jogador fica sóbrio, desenvenenado e ganha informações verdadeiras, or 2) a habilidade de um jogador funciona 2x. O jogador correspondente sabe o efeito.",
+        "ability": "A cada noite, até o anoitecer, um jogador fica sóbrio, desenvenenado e ganha informações verdadeiras OU a habilidade de um jogador funciona 2x. O jogador correspondente sabe o efeito.",
         "firstNight": 1,
         "firstNightReminder": "Escolha um jogador, acorde-o e mostre-o qual poder do Barista o está afetando (1 ou 2).",
         "edition": "",
@@ -2088,7 +2088,7 @@
         "team": "traveller"
     },
     {
-        "ability": "A cada noite*, escolha um jogador vivo: se o alvo concordar, você aquele .",
+        "ability": "A cada noite*, escolha um jogador vivo: se o alvo concordar, você descobre aquele personagem, mas vocês dois podem morrer.",
         "firstNight": 0,
         "firstNightReminder": "",
         "edition": "",
