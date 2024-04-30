@@ -311,7 +311,7 @@
         "team": "townsfolk"
     },
     {
-        "ability": "A cada noite, se os mortos são maioria, você vê um personagem vivo. O Demôno sabe quem você é.",
+        "ability": "A cada noite, se os mortos são maioria, você vê um personagem vivo. O Demônio sabe quem você é.",
         "firstNight": 10,
         "firstNightReminder": "Acorde o Demônio, mostre o token do Rei e aponte para o jogador correspondente.",
         "edition": "",
