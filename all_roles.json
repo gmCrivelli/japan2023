@@ -913,11 +913,11 @@
         "edition": "",
         "id": "pt_BR_poppy_grower",
         "image": "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/poppygrower.png",
-        "name": "Poppy Grower",
+        "name": "Cultivadora",
         "otherNight": 3,
         "otherNightReminder": "Se a Cultivadora morreu, apresente o Demônio aos Lacaios e vice-versa.",
         "reminders": [
-            "Mal Acorda"
+            "Mal acorda"
         ],
         "setup": false,
         "team": "townsfolk"
