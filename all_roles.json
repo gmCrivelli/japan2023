@@ -171,9 +171,7 @@
         "name": "Shugenja",
         "otherNight": 0,
         "otherNightReminder": "",
-        "reminders": [
-            ""
-        ],
+        "reminders": [],
         "setup": false,
         "team": "townsfolk"
     },
@@ -218,9 +216,7 @@
         "name": "Sacerdotisa",
         "otherNight": 69,
         "otherNightReminder": "Aponte para um jogador.",
-        "reminders": [
-            ""
-        ],
+        "reminders": [],
         "setup": false,
         "team": "townsfolk"
     },
@@ -1138,9 +1134,7 @@
         "name": "Médico da Peste",
         "otherNight": 0,
         "otherNightReminder": "Habilidade do Narrador",
-        "reminders": [
-            ""
-        ],
+        "reminders": [],
         "setup": false,
         "team": "outsider"
     },
@@ -1605,9 +1599,7 @@
         "name": "Vizir",
         "otherNight": 0,
         "otherNightReminder": "",
-        "reminders": [
-            ""
-        ],
+        "reminders": [],
         "setup": false,
         "team": "minion"
     },
@@ -1745,7 +1737,7 @@
         "otherNight": 0,
         "otherNightReminder": "",
         "reminders": [
-            ""
+            "Morto"
         ],
         "setup": false,
         "team": "demon"
@@ -2399,10 +2391,8 @@
         "image": "https://wiki.bloodontheclocktower.com/images/8/8f/Icon_ferryman.png",
         "name": "Barqueiro",
         "otherNight": 0,
-        "otherNightReminder": "",
-        "reminders": [
-            ""
-        ],
+        "otherNightReminder": "Se este for o dia final, anuncie que todos os jogadores mortos podem votar uma vez.",
+        "reminders": [],
         "setup": false,
         "team": "fabled"
     },
